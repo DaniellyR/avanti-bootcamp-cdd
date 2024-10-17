@@ -1,7 +1,7 @@
 # Titanic - Análise e pedrição de desastres
 
 <p align="center">
-    <img scr="https://i.pinimg.com/originals/b4/be/12/b4be1247b4b9cc74f96bf8bc67d01d00.gif">
+    <img scr="https://i.pinimg.com/originals/b4/be/12/b4be1247b4b9cc74f96bf8bc67d01d00.gif" />
 </p>
 
 ## Desenvolvedora
