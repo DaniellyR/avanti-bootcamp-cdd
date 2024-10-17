@@ -1,6 +1,8 @@
-# <Título do projeto>
+# Titanic - Análise e pedrição de desastres
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+<p align="center">
+    <img scr="https://i.pinimg.com/originals/b4/be/12/b4be1247b4b9cc74f96bf8bc67d01d00.gif">
+</p>
 
 ## Desenvolvedora
  - [Danielly Reis](https://github.com/DaniellyR)
