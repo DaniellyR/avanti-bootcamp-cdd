@@ -1,8 +1,9 @@
 # Titanic - Análise e pedrição de desastres
 
 <p align="center">
-    <img scr="https://i.imgur.com/y1xzdpK.gif" />
+  <img src="https://i.imgur.com/y1xzdpK.gif" alt="GIF">
 </p>
+
 
 ## Desenvolvedora
  - [Danielly Reis](https://github.com/DaniellyR)
