@@ -1,6 +1,6 @@
 # Titanic - Análise e pedrição de desastres
 
-![Imgur](https://imgur.com/y1xzdpK)
+![Imgur](https://i.imgur.com/y1xzdpK.gif)
 
 <!-- <p align="center">
     <img scr="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW03NHQ4emVxM3RxamlkYnZqNW9rcGNxc3FnbGQyamp4cmVvOHpvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mYeIp5eruF3jy/200.webp" />
