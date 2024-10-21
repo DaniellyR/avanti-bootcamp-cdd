@@ -4,8 +4,27 @@
   <img src="https://i.imgur.com/y1xzdpK.gif" alt="GIF">
 </p>
 
+Esse projeto tem como objetivo construir um modelo preditivo capaz de determinar quais fatores aumentaram ou diminuíram as chances de sobrevivência no desastre, usando dados demográficos e socioeconômicos dos passageiros. Esse estudo ajuda a entender o impacto de variáveis como idade, gênero e classe social na sobrevivência.
 
-## Desenvolvedora
+## Justificativa
+A análise do desastre do Titanica criação de políticas de segurança mais eficazes em situações de emergência. Ao analisar dados históricos, podemos identificar padrões de comportamento e desigualdades que podem ser aplicados em cenários futuros, como o desenvolvimento de protocolos de evacuação mais justos e eficientes.
+
+## Metodologia
+A metodologia que será adotada para a análise e predição de sobrevivência no Titanic segue o ciclo CRISP-DM (Cross Industry Standard Process for Data Mining), um processo estruturado amplamente utilizado em projetos de mineração de dados e análise preditiva. O CRISP-DM é composto por:
+1. Entendimento de negócio
+2. Entendimento de dados
+3. Preparação dos dados
+4. Modelagem
+
+O projeto também é dividido em duas entregas, a saber:
+
+1. Análise Exploratória de Dados (EDA): entendimento das variáveis que influenciam o MPG e identificação de padrões nos dados através de hipóteses, visualizações e insights.
+2. Análise comparativa de modelos: construção de modelos de aprendizado de máquina para rpevisão de consumo, com métricas de desempenho para avaliação da performance.
+
+## Resultados Esperados
+A análise pode ajudar a compreender como fatores socioeconômicos e demográficos influenciam decisões e ações em situações de crise, causado por impactos de gênero, idade e classe socioeconômica. Contribuir para o planejamento de ações preventivas e de resgate que priorizem a equidade e a segurança de todos.
+
+### Desenvolvedora
  - [Danielly Reis](https://github.com/DaniellyR)
  
 ---
