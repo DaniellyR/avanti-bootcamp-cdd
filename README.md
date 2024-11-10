@@ -1,7 +1,7 @@
 # Titanic - Análise e pedrição de desastres
 
 <p align="center">
-  <img src="https://i.imgur.com/LXY4iSk.png" alt="grafico da taxas de sobreviventes">
+  <img src="https://i.imgur.com/lLZj1ko.jpeg" alt="grafico da taxas de sobreviventes">
 </p>
 
 Esse projeto tem como objetivo construir um modelo preditivo capaz de determinar quais fatores aumentaram ou diminuíram as chances de sobrevivência no desastre, usando dados demográficos e socioeconômicos dos passageiros. Esse estudo ajuda a entender o impacto de variáveis como idade, gênero e classe social na sobrevivência.
