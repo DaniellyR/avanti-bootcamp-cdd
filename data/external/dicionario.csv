@@ -8,8 +8,8 @@
 6,fare,Tarifa do passageiro,quantitativo,continua
 7,embarked,Porto de embarcação,quantitativa,continua
 8,class,Número da classe social,quantitativa,discreto
-9,who,Homem ou Mulher,qualitativa,nominal
-10,adult_male,Homens adultos,quantitativa,discreto
+9,who,"Homem, Mulher ou Criança",qualitativa,nominal
+10,adult_male,Homem adulto,quantitativa,discreto
 11,deck,convés,qualitativa,Nominal
 12,embark_town,Cidade de embarcação,quantitativa,discreto
 13,alive,Pessoas vivas,quantitativa,discreto
