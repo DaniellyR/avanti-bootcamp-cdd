@@ -1,0 +1,892 @@
+Unnamed: 0,Sobreviventes,Status socioeconômico,Gênero das pessoas,Idade das pessoas,Relação familiar de irmãos e cônjuge,Relação familiar de pais e filhos,Tarifa do passageiro,Porto de embarcação,Número da classe social,"Homem, Mulher ou Criança",Homem adulto,Convés,Cidade de embarcação,Pessoas vivas,Pessoas sozinhas
+0,morto,3,Masculino,22.0,1,0,7.25,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+1,vivo,1,Feminino,38.0,1,0,71.2833,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Cherbourg,Sim,Não
+2,vivo,3,Feminino,26.0,0,0,7.925,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Sim
+3,vivo,1,Feminino,35.0,1,0,53.1,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Southampton,Sim,Não
+4,morto,3,Masculino,35.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+5,morto,3,Masculino,,0,0,8.4583,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+6,morto,1,Masculino,54.0,0,0,51.8625,Southampton,Primeira Classe,Homem,Sim,Convés Segunda Classe e áreas de serviço,Southampton,Não,Sim
+7,morto,3,Masculino,2.0,3,1,21.075,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+8,vivo,3,Feminino,27.0,0,2,11.1333,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Não
+9,vivo,2,Feminino,14.0,1,0,30.0708,Cherbourg,Segunda Classe,Criança,Não,,Cherbourg,Sim,Não
+10,vivo,3,Feminino,4.0,1,1,16.7,Southampton,Terceira Classe,Criança,Não,Convés Terceira Classe e áreas de serviço para tripulação,Southampton,Sim,Não
+11,vivo,1,Feminino,58.0,0,0,26.55,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Southampton,Sim,Sim
+12,morto,3,Masculino,20.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+13,morto,3,Masculino,39.0,1,5,31.275,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+14,morto,3,Feminino,14.0,0,0,7.8542,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Sim
+15,vivo,2,Feminino,55.0,0,0,16.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Sim
+16,morto,3,Masculino,2.0,4,1,29.125,Queenstown,Terceira Classe,Criança,Não,,Queenstown,Não,Não
+17,vivo,2,Masculino,,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Sim,Sim
+18,morto,3,Feminino,31.0,1,0,18.0,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+19,vivo,3,Feminino,,0,0,7.225,Cherbourg,Terceira Classe,Mulher,Não,,Cherbourg,Sim,Sim
+20,morto,2,Masculino,35.0,0,0,26.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+21,vivo,2,Masculino,34.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,Convés Primeira Classe e Restaurante de Primeira Classe,Southampton,Sim,Sim
+22,vivo,3,Feminino,15.0,0,0,8.0292,Queenstown,Terceira Classe,Criança,Não,,Queenstown,Sim,Sim
+23,vivo,1,Masculino,28.0,0,0,35.5,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe com botes salva vidas,Southampton,Sim,Sim
+24,morto,3,Feminino,8.0,3,1,21.075,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+25,vivo,3,Feminino,38.0,1,5,31.3875,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Não
+26,morto,3,Masculino,,0,0,7.225,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+27,morto,1,Masculino,19.0,3,2,263.0,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Southampton,Não,Não
+28,vivo,3,Feminino,,0,0,7.8792,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Sim
+29,morto,3,Masculino,,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+30,morto,1,Masculino,40.0,0,0,27.7208,Cherbourg,Primeira Classe,Homem,Sim,,Cherbourg,Não,Sim
+31,vivo,1,Feminino,,1,0,146.5208,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Cherbourg,Sim,Não
+32,vivo,3,Feminino,,0,0,7.75,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Sim
+33,morto,2,Masculino,66.0,0,0,10.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+34,morto,1,Masculino,28.0,1,0,82.1708,Cherbourg,Primeira Classe,Homem,Sim,,Cherbourg,Não,Não
+35,morto,1,Masculino,42.0,1,0,52.0,Southampton,Primeira Classe,Homem,Sim,,Southampton,Não,Não
+36,vivo,3,Masculino,,0,0,7.2292,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Sim,Sim
+37,morto,3,Masculino,21.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+38,morto,3,Feminino,18.0,2,0,18.0,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+39,vivo,3,Feminino,14.0,1,0,11.2417,Cherbourg,Terceira Classe,Criança,Não,,Cherbourg,Sim,Não
+40,morto,3,Feminino,40.0,1,0,9.475,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+41,morto,2,Feminino,27.0,1,0,21.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Não,Não
+42,morto,3,Masculino,,0,0,7.8958,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+43,vivo,2,Feminino,3.0,1,2,41.5792,Cherbourg,Segunda Classe,Criança,Não,,Cherbourg,Sim,Não
+44,vivo,3,Feminino,19.0,0,0,7.8792,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Sim
+45,morto,3,Masculino,,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+46,morto,3,Masculino,,1,0,15.5,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Não
+47,vivo,3,Feminino,,0,0,7.75,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Sim
+48,morto,3,Masculino,,2,0,21.6792,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Não
+49,morto,3,Feminino,18.0,1,0,17.8,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+50,morto,3,Masculino,7.0,4,1,39.6875,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+51,morto,3,Masculino,21.0,0,0,7.8,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+52,vivo,1,Feminino,49.0,1,0,76.7292,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e Restaurante de Primeira Classe,Cherbourg,Sim,Não
+53,vivo,2,Feminino,29.0,1,0,26.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+54,morto,1,Masculino,65.0,0,1,61.9792,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de serviço,Cherbourg,Não,Não
+55,vivo,1,Masculino,,0,0,35.5,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Southampton,Sim,Sim
+56,vivo,2,Feminino,21.0,0,0,10.5,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Sim
+57,morto,3,Masculino,28.5,0,0,7.2292,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+58,vivo,2,Feminino,5.0,1,2,27.75,Southampton,Segunda Classe,Criança,Não,,Southampton,Sim,Não
+59,morto,3,Masculino,11.0,5,2,46.9,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+60,morto,3,Masculino,22.0,0,0,7.2292,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+61,vivo,1,Feminino,38.0,0,0,80.0,,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,,Sim,Sim
+62,morto,1,Masculino,45.0,1,0,83.475,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Southampton,Não,Não
+63,morto,3,Masculino,4.0,3,2,27.9,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+64,morto,1,Masculino,,0,0,27.7208,Cherbourg,Primeira Classe,Homem,Sim,,Cherbourg,Não,Sim
+65,vivo,3,Masculino,,1,1,15.2458,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Sim,Não
+66,vivo,2,Feminino,29.0,0,0,10.5,Southampton,Segunda Classe,Mulher,Não,Convés Segunda Classe e parte da Terceira Classe,Southampton,Sim,Sim
+67,morto,3,Masculino,19.0,0,0,8.1583,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+68,vivo,3,Feminino,17.0,4,2,7.925,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Não
+69,morto,3,Masculino,26.0,2,0,8.6625,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+70,morto,2,Masculino,32.0,0,0,10.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+71,morto,3,Feminino,16.0,5,2,46.9,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+72,morto,2,Masculino,21.0,0,0,73.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+73,morto,3,Masculino,26.0,1,0,14.4542,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Não
+74,vivo,3,Masculino,32.0,0,0,56.4958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+75,morto,3,Masculino,25.0,0,0,7.65,Southampton,Terceira Classe,Homem,Sim,Convés Segunda Classe e parte da Terceira Classe,Southampton,Não,Sim
+76,morto,3,Masculino,,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+77,morto,3,Masculino,,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+78,vivo,2,Masculino,0.83,0,2,29.0,Southampton,Segunda Classe,Criança,Não,,Southampton,Sim,Não
+79,vivo,3,Feminino,30.0,0,0,12.475,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Sim
+80,morto,3,Masculino,22.0,0,0,9.0,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+81,vivo,3,Masculino,29.0,0,0,9.5,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+82,vivo,3,Feminino,,0,0,7.7875,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Sim
+83,morto,1,Masculino,28.0,0,0,47.1,Southampton,Primeira Classe,Homem,Sim,,Southampton,Não,Sim
+84,vivo,2,Feminino,17.0,0,0,10.5,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Sim
+85,vivo,3,Feminino,33.0,3,0,15.85,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Não
+86,morto,3,Masculino,16.0,1,3,34.375,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+87,morto,3,Masculino,,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+88,vivo,1,Feminino,23.0,3,2,263.0,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Southampton,Sim,Não
+89,morto,3,Masculino,24.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+90,morto,3,Masculino,29.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+91,morto,3,Masculino,20.0,0,0,7.8542,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+92,morto,1,Masculino,46.0,1,0,61.175,Southampton,Primeira Classe,Homem,Sim,Convés Segunda Classe e áreas de serviço,Southampton,Não,Não
+93,morto,3,Masculino,26.0,1,2,20.575,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+94,morto,3,Masculino,59.0,0,0,7.25,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+95,morto,3,Masculino,,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+96,morto,1,Masculino,71.0,0,0,34.6542,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe com botes salva vidas,Cherbourg,Não,Sim
+97,vivo,1,Masculino,23.0,0,1,63.3583,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e Restaurante de Primeira Classe,Cherbourg,Sim,Não
+98,vivo,2,Feminino,34.0,0,1,23.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+99,morto,2,Masculino,34.0,1,0,26.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Não
+100,morto,3,Feminino,28.0,0,0,7.8958,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Sim
+101,morto,3,Masculino,,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+102,morto,1,Masculino,21.0,0,1,77.2875,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e Restaurante de Primeira Classe,Southampton,Não,Não
+103,morto,3,Masculino,33.0,0,0,8.6542,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+104,morto,3,Masculino,37.0,2,0,7.925,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+105,morto,3,Masculino,28.0,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+106,vivo,3,Feminino,21.0,0,0,7.65,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Sim
+107,vivo,3,Masculino,,0,0,7.775,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+108,morto,3,Masculino,38.0,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+109,vivo,3,Feminino,,1,0,24.15,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Não
+110,morto,1,Masculino,47.0,0,0,52.0,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Southampton,Não,Sim
+111,morto,3,Feminino,14.5,1,0,14.4542,Cherbourg,Terceira Classe,Criança,Não,,Cherbourg,Não,Não
+112,morto,3,Masculino,22.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+113,morto,3,Feminino,20.0,1,0,9.825,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+114,morto,3,Feminino,17.0,0,0,14.4583,Cherbourg,Terceira Classe,Mulher,Não,,Cherbourg,Não,Sim
+115,morto,3,Masculino,21.0,0,0,7.925,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+116,morto,3,Masculino,70.5,0,0,7.75,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+117,morto,2,Masculino,29.0,1,0,21.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Não
+118,morto,1,Masculino,24.0,0,1,247.5208,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de serviço,Cherbourg,Não,Não
+119,morto,3,Feminino,2.0,4,2,31.275,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+120,morto,2,Masculino,21.0,2,0,73.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Não
+121,morto,3,Masculino,,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+122,morto,2,Masculino,32.5,1,0,30.0708,Cherbourg,Segunda Classe,Homem,Sim,,Cherbourg,Não,Não
+123,vivo,2,Feminino,32.5,0,0,13.0,Southampton,Segunda Classe,Mulher,Não,Convés Segunda Classe e áreas de serviço,Southampton,Sim,Sim
+124,morto,1,Masculino,54.0,0,1,77.2875,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e Restaurante de Primeira Classe,Southampton,Não,Não
+125,vivo,3,Masculino,12.0,1,0,11.2417,Cherbourg,Terceira Classe,Criança,Não,,Cherbourg,Sim,Não
+126,morto,3,Masculino,,0,0,7.75,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+127,vivo,3,Masculino,24.0,0,0,7.1417,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+128,vivo,3,Feminino,,1,1,22.3583,Cherbourg,Terceira Classe,Mulher,Não,Convés Segunda Classe e parte da Terceira Classe,Cherbourg,Sim,Não
+129,morto,3,Masculino,45.0,0,0,6.975,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+130,morto,3,Masculino,33.0,0,0,7.8958,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+131,morto,3,Masculino,20.0,0,0,7.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+132,morto,3,Feminino,47.0,1,0,14.5,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+133,vivo,2,Feminino,29.0,1,0,26.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+134,morto,2,Masculino,25.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+135,morto,2,Masculino,23.0,0,0,15.0458,Cherbourg,Segunda Classe,Homem,Sim,,Cherbourg,Não,Sim
+136,vivo,1,Feminino,19.0,0,2,26.2833,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e Restaurante de Primeira Classe,Southampton,Sim,Não
+137,morto,1,Masculino,37.0,1,0,53.1,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Southampton,Não,Não
+138,morto,3,Masculino,16.0,0,0,9.2167,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+139,morto,1,Masculino,24.0,0,0,79.2,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de serviço,Cherbourg,Não,Sim
+140,morto,3,Feminino,,0,2,15.2458,Cherbourg,Terceira Classe,Mulher,Não,,Cherbourg,Não,Não
+141,vivo,3,Feminino,22.0,0,0,7.75,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Sim
+142,vivo,3,Feminino,24.0,1,0,15.85,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Não
+143,morto,3,Masculino,19.0,0,0,6.75,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+144,morto,2,Masculino,18.0,0,0,11.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+145,morto,2,Masculino,19.0,1,1,36.75,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Não
+146,vivo,3,Masculino,27.0,0,0,7.7958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+147,morto,3,Feminino,9.0,2,2,34.375,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+148,morto,2,Masculino,36.5,0,2,26.0,Southampton,Segunda Classe,Homem,Sim,Convés Segunda Classe e parte da Terceira Classe,Southampton,Não,Não
+149,morto,2,Masculino,42.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+150,morto,2,Masculino,51.0,0,0,12.525,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+151,vivo,1,Feminino,22.0,1,0,66.6,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Southampton,Sim,Não
+152,morto,3,Masculino,55.5,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+153,morto,3,Masculino,40.5,0,2,14.5,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+154,morto,3,Masculino,,0,0,7.3125,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+155,morto,1,Masculino,51.0,0,1,61.3792,Cherbourg,Primeira Classe,Homem,Sim,,Cherbourg,Não,Não
+156,vivo,3,Feminino,16.0,0,0,7.7333,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Sim
+157,morto,3,Masculino,30.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+158,morto,3,Masculino,,0,0,8.6625,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+159,morto,3,Masculino,,8,2,69.55,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+160,morto,3,Masculino,44.0,0,1,16.1,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+161,vivo,2,Feminino,40.0,0,0,15.75,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Sim
+162,morto,3,Masculino,26.0,0,0,7.775,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+163,morto,3,Masculino,17.0,0,0,8.6625,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+164,morto,3,Masculino,1.0,4,1,39.6875,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+165,vivo,3,Masculino,9.0,0,2,20.525,Southampton,Terceira Classe,Criança,Não,,Southampton,Sim,Não
+166,vivo,1,Feminino,,0,1,55.0,Southampton,Primeira Classe,Mulher,Não,Convés Segunda Classe e áreas de serviço,Southampton,Sim,Não
+167,morto,3,Feminino,45.0,1,4,27.9,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+168,morto,1,Masculino,,0,0,25.925,Southampton,Primeira Classe,Homem,Sim,,Southampton,Não,Sim
+169,morto,3,Masculino,28.0,0,0,56.4958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+170,morto,1,Masculino,61.0,0,0,33.5,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de serviço,Southampton,Não,Sim
+171,morto,3,Masculino,4.0,4,1,29.125,Queenstown,Terceira Classe,Criança,Não,,Queenstown,Não,Não
+172,vivo,3,Feminino,1.0,1,1,11.1333,Southampton,Terceira Classe,Criança,Não,,Southampton,Sim,Não
+173,morto,3,Masculino,21.0,0,0,7.925,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+174,morto,1,Masculino,56.0,0,0,30.6958,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe com botes salva vidas,Cherbourg,Não,Sim
+175,morto,3,Masculino,18.0,1,1,7.8542,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+176,morto,3,Masculino,,3,1,25.4667,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+177,morto,1,Feminino,50.0,0,0,28.7125,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Cherbourg,Não,Sim
+178,morto,2,Masculino,30.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+179,morto,3,Masculino,36.0,0,0,0.0,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+180,morto,3,Feminino,,8,2,69.55,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+181,morto,2,Masculino,,0,0,15.05,Cherbourg,Segunda Classe,Homem,Sim,,Cherbourg,Não,Sim
+182,morto,3,Masculino,9.0,4,2,31.3875,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+183,vivo,2,Masculino,1.0,2,1,39.0,Southampton,Segunda Classe,Criança,Não,Convés Segunda Classe e parte da Terceira Classe,Southampton,Sim,Não
+184,vivo,3,Feminino,4.0,0,2,22.025,Southampton,Terceira Classe,Criança,Não,,Southampton,Sim,Não
+185,morto,1,Masculino,,0,0,50.0,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe com botes salva vidas,Southampton,Não,Sim
+186,vivo,3,Feminino,,1,0,15.5,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Não
+187,vivo,1,Masculino,45.0,0,0,26.55,Southampton,Primeira Classe,Homem,Sim,,Southampton,Sim,Sim
+188,morto,3,Masculino,40.0,1,1,15.5,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Não
+189,morto,3,Masculino,36.0,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+190,vivo,2,Feminino,32.0,0,0,13.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Sim
+191,morto,2,Masculino,19.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+192,vivo,3,Feminino,19.0,1,0,7.8542,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Não
+193,vivo,2,Masculino,3.0,1,1,26.0,Southampton,Segunda Classe,Criança,Não,Convés Segunda Classe e parte da Terceira Classe,Southampton,Sim,Não
+194,vivo,1,Feminino,44.0,0,0,27.7208,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Cherbourg,Sim,Sim
+195,vivo,1,Feminino,58.0,0,0,146.5208,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Cherbourg,Sim,Sim
+196,morto,3,Masculino,,0,0,7.75,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+197,morto,3,Masculino,42.0,0,1,8.4042,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+198,vivo,3,Feminino,,0,0,7.75,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Sim
+199,morto,2,Feminino,24.0,0,0,13.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Não,Sim
+200,morto,3,Masculino,28.0,0,0,9.5,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+201,morto,3,Masculino,,8,2,69.55,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+202,morto,3,Masculino,34.0,0,0,6.4958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+203,morto,3,Masculino,45.5,0,0,7.225,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+204,vivo,3,Masculino,18.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+205,morto,3,Feminino,2.0,0,1,10.4625,Southampton,Terceira Classe,Criança,Não,Convés Terceira Classe e áreas de serviço para tripulação,Southampton,Não,Não
+206,morto,3,Masculino,32.0,1,0,15.85,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+207,vivo,3,Masculino,26.0,0,0,18.7875,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Sim,Sim
+208,vivo,3,Feminino,16.0,0,0,7.75,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Sim
+209,vivo,1,Masculino,40.0,0,0,31.0,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe com botes salva vidas,Cherbourg,Sim,Sim
+210,morto,3,Masculino,24.0,0,0,7.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+211,vivo,2,Feminino,35.0,0,0,21.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Sim
+212,morto,3,Masculino,22.0,0,0,7.25,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+213,morto,2,Masculino,30.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+214,morto,3,Masculino,,1,0,7.75,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Não
+215,vivo,1,Feminino,31.0,1,0,113.275,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e Restaurante de Primeira Classe,Cherbourg,Sim,Não
+216,vivo,3,Feminino,27.0,0,0,7.925,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Sim
+217,morto,2,Masculino,42.0,1,0,27.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Não
+218,vivo,1,Feminino,32.0,0,0,76.2917,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e Restaurante de Primeira Classe,Cherbourg,Sim,Sim
+219,morto,2,Masculino,30.0,0,0,10.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+220,vivo,3,Masculino,16.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+221,morto,2,Masculino,27.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+222,morto,3,Masculino,51.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+223,morto,3,Masculino,,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+224,vivo,1,Masculino,38.0,1,0,90.0,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Southampton,Sim,Não
+225,morto,3,Masculino,22.0,0,0,9.35,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+226,vivo,2,Masculino,19.0,0,0,10.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Sim,Sim
+227,morto,3,Masculino,20.5,0,0,7.25,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+228,morto,2,Masculino,18.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+229,morto,3,Feminino,,3,1,25.4667,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+230,vivo,1,Feminino,35.0,1,0,83.475,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Southampton,Sim,Não
+231,morto,3,Masculino,29.0,0,0,7.775,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+232,morto,2,Masculino,59.0,0,0,13.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+233,vivo,3,Feminino,5.0,4,2,31.3875,Southampton,Terceira Classe,Criança,Não,,Southampton,Sim,Não
+234,morto,2,Masculino,24.0,0,0,10.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+235,morto,3,Feminino,,0,0,7.55,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Sim
+236,morto,2,Masculino,44.0,1,0,26.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Não
+237,vivo,2,Feminino,8.0,0,2,26.25,Southampton,Segunda Classe,Criança,Não,,Southampton,Sim,Não
+238,morto,2,Masculino,19.0,0,0,10.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+239,morto,2,Masculino,33.0,0,0,12.275,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+240,morto,3,Feminino,,1,0,14.4542,Cherbourg,Terceira Classe,Mulher,Não,,Cherbourg,Não,Não
+241,vivo,3,Feminino,,1,0,15.5,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Não
+242,morto,2,Masculino,29.0,0,0,10.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+243,morto,3,Masculino,22.0,0,0,7.125,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+244,morto,3,Masculino,30.0,0,0,7.225,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+245,morto,1,Masculino,44.0,2,0,90.0,Queenstown,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Queenstown,Não,Não
+246,morto,3,Feminino,25.0,0,0,7.775,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Sim
+247,vivo,2,Feminino,24.0,0,2,14.5,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+248,vivo,1,Masculino,37.0,1,1,52.5542,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e Restaurante de Primeira Classe,Southampton,Sim,Não
+249,morto,2,Masculino,54.0,1,0,26.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Não
+250,morto,3,Masculino,,0,0,7.25,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+251,morto,3,Feminino,29.0,1,1,10.4625,Southampton,Terceira Classe,Mulher,Não,Convés Terceira Classe e áreas de serviço para tripulação,Southampton,Não,Não
+252,morto,1,Masculino,62.0,0,0,26.55,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Southampton,Não,Sim
+253,morto,3,Masculino,30.0,1,0,16.1,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+254,morto,3,Feminino,41.0,0,2,20.2125,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+255,vivo,3,Feminino,29.0,0,2,15.2458,Cherbourg,Terceira Classe,Mulher,Não,,Cherbourg,Sim,Não
+256,vivo,1,Feminino,,0,0,79.2,Cherbourg,Primeira Classe,Mulher,Não,,Cherbourg,Sim,Sim
+257,vivo,1,Feminino,30.0,0,0,86.5,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Southampton,Sim,Sim
+258,vivo,1,Feminino,35.0,0,0,512.3292,Cherbourg,Primeira Classe,Mulher,Não,,Cherbourg,Sim,Sim
+259,vivo,2,Feminino,50.0,0,1,26.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+260,morto,3,Masculino,,0,0,7.75,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+261,vivo,3,Masculino,3.0,4,2,31.3875,Southampton,Terceira Classe,Criança,Não,,Southampton,Sim,Não
+262,morto,1,Masculino,52.0,1,1,79.65,Southampton,Primeira Classe,Homem,Sim,Convés Segunda Classe e áreas de serviço,Southampton,Não,Não
+263,morto,1,Masculino,40.0,0,0,0.0,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de serviço,Southampton,Não,Sim
+264,morto,3,Feminino,,0,0,7.75,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Não,Sim
+265,morto,2,Masculino,36.0,0,0,10.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+266,morto,3,Masculino,16.0,4,1,39.6875,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+267,vivo,3,Masculino,25.0,1,0,7.775,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Não
+268,vivo,1,Feminino,58.0,0,1,153.4625,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Southampton,Sim,Não
+269,vivo,1,Feminino,35.0,0,0,135.6333,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Southampton,Sim,Sim
+270,morto,1,Masculino,,0,0,31.0,Southampton,Primeira Classe,Homem,Sim,,Southampton,Não,Sim
+271,vivo,3,Masculino,25.0,0,0,0.0,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+272,vivo,2,Feminino,41.0,0,1,19.5,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+273,morto,1,Masculino,37.0,0,1,29.7,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Cherbourg,Não,Não
+274,vivo,3,Feminino,,0,0,7.75,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Sim
+275,vivo,1,Feminino,63.0,1,0,77.9583,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e Restaurante de Primeira Classe,Southampton,Sim,Não
+276,morto,3,Feminino,45.0,0,0,7.75,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Sim
+277,morto,2,Masculino,,0,0,0.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+278,morto,3,Masculino,7.0,4,1,29.125,Queenstown,Terceira Classe,Criança,Não,,Queenstown,Não,Não
+279,vivo,3,Feminino,35.0,1,1,20.25,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Não
+280,morto,3,Masculino,65.0,0,0,7.75,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+281,morto,3,Masculino,28.0,0,0,7.8542,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+282,morto,3,Masculino,16.0,0,0,9.5,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+283,vivo,3,Masculino,19.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+284,morto,1,Masculino,,0,0,26.0,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe com botes salva vidas,Southampton,Não,Sim
+285,morto,3,Masculino,33.0,0,0,8.6625,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+286,vivo,3,Masculino,30.0,0,0,9.5,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+287,morto,3,Masculino,22.0,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+288,vivo,2,Masculino,42.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Sim,Sim
+289,vivo,3,Feminino,22.0,0,0,7.75,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Sim
+290,vivo,1,Feminino,26.0,0,0,78.85,Southampton,Primeira Classe,Mulher,Não,,Southampton,Sim,Sim
+291,vivo,1,Feminino,19.0,1,0,91.0792,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Cherbourg,Sim,Não
+292,morto,2,Masculino,36.0,0,0,12.875,Cherbourg,Segunda Classe,Homem,Sim,Convés Primeira Classe e Restaurante de Primeira Classe,Cherbourg,Não,Sim
+293,morto,3,Feminino,24.0,0,0,8.85,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Sim
+294,morto,3,Masculino,24.0,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+295,morto,1,Masculino,,0,0,27.7208,Cherbourg,Primeira Classe,Homem,Sim,,Cherbourg,Não,Sim
+296,morto,3,Masculino,23.5,0,0,7.2292,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+297,morto,1,Feminino,2.0,1,2,151.55,Southampton,Primeira Classe,Criança,Não,Convés Primeira Classe e áreas de refeição,Southampton,Não,Não
+298,vivo,1,Masculino,,0,0,30.5,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Southampton,Sim,Sim
+299,vivo,1,Feminino,50.0,0,1,247.5208,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Cherbourg,Sim,Não
+300,vivo,3,Feminino,,0,0,7.75,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Sim
+301,vivo,3,Masculino,,2,0,23.25,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Sim,Não
+302,morto,3,Masculino,19.0,0,0,0.0,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+303,vivo,2,Feminino,,0,0,12.35,Queenstown,Segunda Classe,Mulher,Não,Convés Segunda Classe e áreas de serviço,Queenstown,Sim,Sim
+304,morto,3,Masculino,,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+305,vivo,1,Masculino,0.92,1,2,151.55,Southampton,Primeira Classe,Criança,Não,Convés Primeira Classe e áreas de refeição,Southampton,Sim,Não
+306,vivo,1,Feminino,,0,0,110.8833,Cherbourg,Primeira Classe,Mulher,Não,,Cherbourg,Sim,Sim
+307,vivo,1,Feminino,17.0,1,0,108.9,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Cherbourg,Sim,Não
+308,morto,2,Masculino,30.0,1,0,24.0,Cherbourg,Segunda Classe,Homem,Sim,,Cherbourg,Não,Não
+309,vivo,1,Feminino,30.0,0,0,56.9292,Cherbourg,Primeira Classe,Mulher,Não,Convés Segunda Classe e áreas de serviço,Cherbourg,Sim,Sim
+310,vivo,1,Feminino,24.0,0,0,83.1583,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Cherbourg,Sim,Sim
+311,vivo,1,Feminino,18.0,2,2,262.375,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Cherbourg,Sim,Não
+312,morto,2,Feminino,26.0,1,1,26.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Não,Não
+313,morto,3,Masculino,28.0,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+314,morto,2,Masculino,43.0,1,1,26.25,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Não
+315,vivo,3,Feminino,26.0,0,0,7.8542,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Sim
+316,vivo,2,Feminino,24.0,1,0,26.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+317,morto,2,Masculino,54.0,0,0,14.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+318,vivo,1,Feminino,31.0,0,2,164.8667,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Southampton,Sim,Não
+319,vivo,1,Feminino,40.0,1,1,134.5,Cherbourg,Primeira Classe,Mulher,Não,Convés Segunda Classe e áreas de serviço,Cherbourg,Sim,Não
+320,morto,3,Masculino,22.0,0,0,7.25,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+321,morto,3,Masculino,27.0,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+322,vivo,2,Feminino,30.0,0,0,12.35,Queenstown,Segunda Classe,Mulher,Não,,Queenstown,Sim,Sim
+323,vivo,2,Feminino,22.0,1,1,29.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+324,morto,3,Masculino,,8,2,69.55,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+325,vivo,1,Feminino,36.0,0,0,135.6333,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Cherbourg,Sim,Sim
+326,morto,3,Masculino,61.0,0,0,6.2375,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+327,vivo,2,Feminino,36.0,0,0,13.0,Southampton,Segunda Classe,Mulher,Não,Convés Primeira Classe e Restaurante de Primeira Classe,Southampton,Sim,Sim
+328,vivo,3,Feminino,31.0,1,1,20.525,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Não
+329,vivo,1,Feminino,16.0,0,1,57.9792,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Cherbourg,Sim,Não
+330,vivo,3,Feminino,,2,0,23.25,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Não
+331,morto,1,Masculino,45.5,0,0,28.5,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Southampton,Não,Sim
+332,morto,1,Masculino,38.0,0,1,153.4625,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Southampton,Não,Não
+333,morto,3,Masculino,16.0,2,0,18.0,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+334,vivo,1,Feminino,,1,0,133.65,Southampton,Primeira Classe,Mulher,Não,,Southampton,Sim,Não
+335,morto,3,Masculino,,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+336,morto,1,Masculino,29.0,1,0,66.6,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Southampton,Não,Não
+337,vivo,1,Feminino,41.0,0,0,134.5,Cherbourg,Primeira Classe,Mulher,Não,Convés Segunda Classe e áreas de serviço,Cherbourg,Sim,Sim
+338,vivo,3,Masculino,45.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+339,morto,1,Masculino,45.0,0,0,35.5,Southampton,Primeira Classe,Homem,Sim,,Southampton,Não,Sim
+340,vivo,2,Masculino,2.0,1,1,26.0,Southampton,Segunda Classe,Criança,Não,Convés Segunda Classe e parte da Terceira Classe,Southampton,Sim,Não
+341,vivo,1,Feminino,24.0,3,2,263.0,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Southampton,Sim,Não
+342,morto,2,Masculino,28.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+343,morto,2,Masculino,25.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+344,morto,2,Masculino,36.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+345,vivo,2,Feminino,24.0,0,0,13.0,Southampton,Segunda Classe,Mulher,Não,Convés Segunda Classe e parte da Terceira Classe,Southampton,Sim,Sim
+346,vivo,2,Feminino,40.0,0,0,13.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Sim
+347,vivo,3,Feminino,,1,0,16.1,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Não
+348,vivo,3,Masculino,3.0,1,1,15.9,Southampton,Terceira Classe,Criança,Não,,Southampton,Sim,Não
+349,morto,3,Masculino,42.0,0,0,8.6625,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+350,morto,3,Masculino,23.0,0,0,9.225,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+351,morto,1,Masculino,,0,0,35.0,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Southampton,Não,Sim
+352,morto,3,Masculino,15.0,1,1,7.2292,Cherbourg,Terceira Classe,Criança,Não,,Cherbourg,Não,Não
+353,morto,3,Masculino,25.0,1,0,17.8,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+354,morto,3,Masculino,,0,0,7.225,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+355,morto,3,Masculino,28.0,0,0,9.5,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+356,vivo,1,Feminino,22.0,0,1,55.0,Southampton,Primeira Classe,Mulher,Não,Convés Segunda Classe e áreas de serviço,Southampton,Sim,Não
+357,morto,2,Feminino,38.0,0,0,13.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Não,Sim
+358,vivo,3,Feminino,,0,0,7.8792,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Sim
+359,vivo,3,Feminino,,0,0,7.8792,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Sim
+360,morto,3,Masculino,40.0,1,4,27.9,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+361,morto,2,Masculino,29.0,1,0,27.7208,Cherbourg,Segunda Classe,Homem,Sim,,Cherbourg,Não,Não
+362,morto,3,Feminino,45.0,0,1,14.4542,Cherbourg,Terceira Classe,Mulher,Não,,Cherbourg,Não,Não
+363,morto,3,Masculino,35.0,0,0,7.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+364,morto,3,Masculino,,1,0,15.5,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Não
+365,morto,3,Masculino,30.0,0,0,7.25,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+366,vivo,1,Feminino,60.0,1,0,75.25,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e Restaurante de Primeira Classe,Cherbourg,Sim,Não
+367,vivo,3,Feminino,,0,0,7.2292,Cherbourg,Terceira Classe,Mulher,Não,,Cherbourg,Sim,Sim
+368,vivo,3,Feminino,,0,0,7.75,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Sim
+369,vivo,1,Feminino,24.0,0,0,69.3,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Cherbourg,Sim,Sim
+370,vivo,1,Masculino,25.0,1,0,55.4417,Cherbourg,Primeira Classe,Homem,Sim,Convés Segunda Classe e áreas de serviço,Cherbourg,Sim,Não
+371,morto,3,Masculino,18.0,1,0,6.4958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+372,morto,3,Masculino,19.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+373,morto,1,Masculino,22.0,0,0,135.6333,Cherbourg,Primeira Classe,Homem,Sim,,Cherbourg,Não,Sim
+374,morto,3,Feminino,3.0,3,1,21.075,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+375,vivo,1,Feminino,,1,0,82.1708,Cherbourg,Primeira Classe,Mulher,Não,,Cherbourg,Sim,Não
+376,vivo,3,Feminino,22.0,0,0,7.25,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Sim
+377,morto,1,Masculino,27.0,0,2,211.5,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Cherbourg,Não,Não
+378,morto,3,Masculino,20.0,0,0,4.0125,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+379,morto,3,Masculino,19.0,0,0,7.775,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+380,vivo,1,Feminino,42.0,0,0,227.525,Cherbourg,Primeira Classe,Mulher,Não,,Cherbourg,Sim,Sim
+381,vivo,3,Feminino,1.0,0,2,15.7417,Cherbourg,Terceira Classe,Criança,Não,,Cherbourg,Sim,Não
+382,morto,3,Masculino,32.0,0,0,7.925,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+383,vivo,1,Feminino,35.0,1,0,52.0,Southampton,Primeira Classe,Mulher,Não,,Southampton,Sim,Não
+384,morto,3,Masculino,,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+385,morto,2,Masculino,18.0,0,0,73.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+386,morto,3,Masculino,1.0,5,2,46.9,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+387,vivo,2,Feminino,36.0,0,0,13.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Sim
+388,morto,3,Masculino,,0,0,7.7292,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+389,vivo,2,Feminino,17.0,0,0,12.0,Cherbourg,Segunda Classe,Mulher,Não,,Cherbourg,Sim,Sim
+390,vivo,1,Masculino,36.0,1,2,120.0,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de serviço,Southampton,Sim,Não
+391,vivo,3,Masculino,21.0,0,0,7.7958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+392,morto,3,Masculino,28.0,2,0,7.925,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+393,vivo,1,Feminino,23.0,1,0,113.275,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e Restaurante de Primeira Classe,Cherbourg,Sim,Não
+394,vivo,3,Feminino,24.0,0,2,16.7,Southampton,Terceira Classe,Mulher,Não,Convés Terceira Classe e áreas de serviço para tripulação,Southampton,Sim,Não
+395,morto,3,Masculino,22.0,0,0,7.7958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+396,morto,3,Feminino,31.0,0,0,7.8542,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Sim
+397,morto,2,Masculino,46.0,0,0,26.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+398,morto,2,Masculino,23.0,0,0,10.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+399,vivo,2,Feminino,28.0,0,0,12.65,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Sim
+400,vivo,3,Masculino,39.0,0,0,7.925,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+401,morto,3,Masculino,26.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+402,morto,3,Feminino,21.0,1,0,9.825,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+403,morto,3,Masculino,28.0,1,0,15.85,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+404,morto,3,Feminino,20.0,0,0,8.6625,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Sim
+405,morto,2,Masculino,34.0,1,0,21.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Não
+406,morto,3,Masculino,51.0,0,0,7.75,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+407,vivo,2,Masculino,3.0,1,1,18.75,Southampton,Segunda Classe,Criança,Não,,Southampton,Sim,Não
+408,morto,3,Masculino,21.0,0,0,7.775,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+409,morto,3,Feminino,,3,1,25.4667,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+410,morto,3,Masculino,,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+411,morto,3,Masculino,,0,0,6.8583,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+412,vivo,1,Feminino,33.0,1,0,90.0,Queenstown,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Queenstown,Sim,Não
+413,morto,2,Masculino,,0,0,0.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+414,vivo,3,Masculino,44.0,0,0,7.925,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+415,morto,3,Feminino,,0,0,8.05,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Sim
+416,vivo,2,Feminino,34.0,1,1,32.5,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+417,vivo,2,Feminino,18.0,0,2,13.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+418,morto,2,Masculino,30.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+419,morto,3,Feminino,10.0,0,2,24.15,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+420,morto,3,Masculino,,0,0,7.8958,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+421,morto,3,Masculino,21.0,0,0,7.7333,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+422,morto,3,Masculino,29.0,0,0,7.875,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+423,morto,3,Feminino,28.0,1,1,14.4,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+424,morto,3,Masculino,18.0,1,1,20.2125,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+425,morto,3,Masculino,,0,0,7.25,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+426,vivo,2,Feminino,28.0,1,0,26.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+427,vivo,2,Feminino,19.0,0,0,26.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Sim
+428,morto,3,Masculino,,0,0,7.75,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+429,vivo,3,Masculino,32.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,Convés Segunda Classe e áreas de serviço,Southampton,Sim,Sim
+430,vivo,1,Masculino,28.0,0,0,26.55,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Southampton,Sim,Sim
+431,vivo,3,Feminino,,1,0,16.1,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Não
+432,vivo,2,Feminino,42.0,1,0,26.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+433,morto,3,Masculino,17.0,0,0,7.125,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+434,morto,1,Masculino,50.0,1,0,55.9,Southampton,Primeira Classe,Homem,Sim,Convés Segunda Classe e áreas de serviço,Southampton,Não,Não
+435,vivo,1,Feminino,14.0,1,2,120.0,Southampton,Primeira Classe,Criança,Não,Convés Primeira Classe e áreas de serviço,Southampton,Sim,Não
+436,morto,3,Feminino,21.0,2,2,34.375,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+437,vivo,2,Feminino,24.0,2,3,18.75,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+438,morto,1,Masculino,64.0,1,4,263.0,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Southampton,Não,Não
+439,morto,2,Masculino,31.0,0,0,10.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+440,vivo,2,Feminino,45.0,1,1,26.25,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+441,morto,3,Masculino,20.0,0,0,9.5,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+442,morto,3,Masculino,25.0,1,0,7.775,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+443,vivo,2,Feminino,28.0,0,0,13.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Sim
+444,vivo,3,Masculino,,0,0,8.1125,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+445,vivo,1,Masculino,4.0,0,2,81.8583,Southampton,Primeira Classe,Criança,Não,Convés Primeira Classe com botes salva vidas,Southampton,Sim,Não
+446,vivo,2,Feminino,13.0,0,1,19.5,Southampton,Segunda Classe,Criança,Não,,Southampton,Sim,Não
+447,vivo,1,Masculino,34.0,0,0,26.55,Southampton,Primeira Classe,Homem,Sim,,Southampton,Sim,Sim
+448,vivo,3,Feminino,5.0,2,1,19.2583,Cherbourg,Terceira Classe,Criança,Não,,Cherbourg,Sim,Não
+449,vivo,1,Masculino,52.0,0,0,30.5,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Southampton,Sim,Sim
+450,morto,2,Masculino,36.0,1,2,27.75,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Não
+451,morto,3,Masculino,,1,0,19.9667,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+452,morto,1,Masculino,30.0,0,0,27.75,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Cherbourg,Não,Sim
+453,vivo,1,Masculino,49.0,1,0,89.1042,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Cherbourg,Sim,Não
+454,morto,3,Masculino,,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+455,vivo,3,Masculino,29.0,0,0,7.8958,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Sim,Sim
+456,morto,1,Masculino,65.0,0,0,26.55,Southampton,Primeira Classe,Homem,Sim,Convés Segunda Classe e áreas de serviço,Southampton,Não,Sim
+457,vivo,1,Feminino,,1,0,51.8625,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e Restaurante de Primeira Classe,Southampton,Sim,Não
+458,vivo,2,Feminino,50.0,0,0,10.5,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Sim
+459,morto,3,Masculino,,0,0,7.75,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+460,vivo,1,Masculino,48.0,0,0,26.55,Southampton,Primeira Classe,Homem,Sim,Convés Segunda Classe e áreas de serviço,Southampton,Sim,Sim
+461,morto,3,Masculino,34.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+462,morto,1,Masculino,47.0,0,0,38.5,Southampton,Primeira Classe,Homem,Sim,Convés Segunda Classe e áreas de serviço,Southampton,Não,Sim
+463,morto,2,Masculino,48.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+464,morto,3,Masculino,,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+465,morto,3,Masculino,38.0,0,0,7.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+466,morto,2,Masculino,,0,0,0.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+467,morto,1,Masculino,56.0,0,0,26.55,Southampton,Primeira Classe,Homem,Sim,,Southampton,Não,Sim
+468,morto,3,Masculino,,0,0,7.725,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+469,vivo,3,Feminino,0.75,2,1,19.2583,Cherbourg,Terceira Classe,Criança,Não,,Cherbourg,Sim,Não
+470,morto,3,Masculino,,0,0,7.25,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+471,morto,3,Masculino,38.0,0,0,8.6625,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+472,vivo,2,Feminino,33.0,1,2,27.75,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+473,vivo,2,Feminino,23.0,0,0,13.7917,Cherbourg,Segunda Classe,Mulher,Não,Convés Primeira Classe e Restaurante de Primeira Classe,Cherbourg,Sim,Sim
+474,morto,3,Feminino,22.0,0,0,9.8375,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Sim
+475,morto,1,Masculino,,0,0,52.0,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe com botes salva vidas,Southampton,Não,Sim
+476,morto,2,Masculino,34.0,1,0,21.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Não
+477,morto,3,Masculino,29.0,1,0,7.0458,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+478,morto,3,Masculino,22.0,0,0,7.5208,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+479,vivo,3,Feminino,2.0,0,1,12.2875,Southampton,Terceira Classe,Criança,Não,,Southampton,Sim,Não
+480,morto,3,Masculino,9.0,5,2,46.9,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+481,morto,2,Masculino,,0,0,0.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+482,morto,3,Masculino,50.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+483,vivo,3,Feminino,63.0,0,0,9.5875,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Sim
+484,vivo,1,Masculino,25.0,1,0,91.0792,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de serviço,Cherbourg,Sim,Não
+485,morto,3,Feminino,,3,1,25.4667,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+486,vivo,1,Feminino,35.0,1,0,90.0,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Southampton,Sim,Não
+487,morto,1,Masculino,58.0,0,0,29.7,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de serviço,Cherbourg,Não,Sim
+488,morto,3,Masculino,30.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+489,vivo,3,Masculino,9.0,1,1,15.9,Southampton,Terceira Classe,Criança,Não,,Southampton,Sim,Não
+490,morto,3,Masculino,,1,0,19.9667,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+491,morto,3,Masculino,21.0,0,0,7.25,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+492,morto,1,Masculino,55.0,0,0,30.5,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Southampton,Não,Sim
+493,morto,1,Masculino,71.0,0,0,49.5042,Cherbourg,Primeira Classe,Homem,Sim,,Cherbourg,Não,Sim
+494,morto,3,Masculino,21.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+495,morto,3,Masculino,,0,0,14.4583,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+496,vivo,1,Feminino,54.0,1,0,78.2667,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e Restaurante de Primeira Classe,Cherbourg,Sim,Não
+497,morto,3,Masculino,,0,0,15.1,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+498,morto,1,Feminino,25.0,1,2,151.55,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Southampton,Não,Não
+499,morto,3,Masculino,24.0,0,0,7.7958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+500,morto,3,Masculino,17.0,0,0,8.6625,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+501,morto,3,Feminino,21.0,0,0,7.75,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Não,Sim
+502,morto,3,Feminino,,0,0,7.6292,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Não,Sim
+503,morto,3,Feminino,37.0,0,0,9.5875,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Sim
+504,vivo,1,Feminino,16.0,0,0,86.5,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Southampton,Sim,Sim
+505,morto,1,Masculino,18.0,1,0,108.9,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Cherbourg,Não,Não
+506,vivo,2,Feminino,33.0,0,2,26.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+507,vivo,1,Masculino,,0,0,26.55,Southampton,Primeira Classe,Homem,Sim,,Southampton,Sim,Sim
+508,morto,3,Masculino,28.0,0,0,22.525,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+509,vivo,3,Masculino,26.0,0,0,56.4958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+510,vivo,3,Masculino,29.0,0,0,7.75,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Sim,Sim
+511,morto,3,Masculino,,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+512,vivo,1,Masculino,36.0,0,0,26.2875,Southampton,Primeira Classe,Homem,Sim,Convés Segunda Classe e áreas de serviço,Southampton,Sim,Sim
+513,vivo,1,Feminino,54.0,1,0,59.4,Cherbourg,Primeira Classe,Mulher,Não,,Cherbourg,Sim,Não
+514,morto,3,Masculino,24.0,0,0,7.4958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+515,morto,1,Masculino,47.0,0,0,34.0208,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e Restaurante de Primeira Classe,Southampton,Não,Sim
+516,vivo,2,Feminino,34.0,0,0,10.5,Southampton,Segunda Classe,Mulher,Não,Convés Segunda Classe e parte da Terceira Classe,Southampton,Sim,Sim
+517,morto,3,Masculino,,0,0,24.15,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+518,vivo,2,Feminino,36.0,1,0,26.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+519,morto,3,Masculino,32.0,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+520,vivo,1,Feminino,30.0,0,0,93.5,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Southampton,Sim,Sim
+521,morto,3,Masculino,22.0,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+522,morto,3,Masculino,,0,0,7.225,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+523,vivo,1,Feminino,44.0,0,1,57.9792,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Cherbourg,Sim,Não
+524,morto,3,Masculino,,0,0,7.2292,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+525,morto,3,Masculino,40.5,0,0,7.75,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+526,vivo,2,Feminino,50.0,0,0,10.5,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Sim
+527,morto,1,Masculino,,0,0,221.7792,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Southampton,Não,Sim
+528,morto,3,Masculino,39.0,0,0,7.925,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+529,morto,2,Masculino,23.0,2,1,11.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Não
+530,vivo,2,Feminino,2.0,1,1,26.0,Southampton,Segunda Classe,Criança,Não,,Southampton,Sim,Não
+531,morto,3,Masculino,,0,0,7.2292,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+532,morto,3,Masculino,17.0,1,1,7.2292,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Não
+533,vivo,3,Feminino,,0,2,22.3583,Cherbourg,Terceira Classe,Mulher,Não,,Cherbourg,Sim,Não
+534,morto,3,Feminino,30.0,0,0,8.6625,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Sim
+535,vivo,2,Feminino,7.0,0,2,26.25,Southampton,Segunda Classe,Criança,Não,,Southampton,Sim,Não
+536,morto,1,Masculino,45.0,0,0,26.55,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de serviço,Southampton,Não,Sim
+537,vivo,1,Feminino,30.0,0,0,106.425,Cherbourg,Primeira Classe,Mulher,Não,,Cherbourg,Sim,Sim
+538,morto,3,Masculino,,0,0,14.5,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+539,vivo,1,Feminino,22.0,0,2,49.5,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Cherbourg,Sim,Não
+540,vivo,1,Feminino,36.0,0,2,71.0,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Southampton,Sim,Não
+541,morto,3,Feminino,9.0,4,2,31.275,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+542,morto,3,Feminino,11.0,4,2,31.275,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+543,vivo,2,Masculino,32.0,1,0,26.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Sim,Não
+544,morto,1,Masculino,50.0,1,0,106.425,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Cherbourg,Não,Não
+545,morto,1,Masculino,64.0,0,0,26.0,Southampton,Primeira Classe,Homem,Sim,,Southampton,Não,Sim
+546,vivo,2,Feminino,19.0,1,0,26.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+547,vivo,2,Masculino,,0,0,13.8625,Cherbourg,Segunda Classe,Homem,Sim,,Cherbourg,Sim,Sim
+548,morto,3,Masculino,33.0,1,1,20.525,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+549,vivo,2,Masculino,8.0,1,1,36.75,Southampton,Segunda Classe,Criança,Não,,Southampton,Sim,Não
+550,vivo,1,Masculino,17.0,0,2,110.8833,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Cherbourg,Sim,Não
+551,morto,2,Masculino,27.0,0,0,26.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+552,morto,3,Masculino,,0,0,7.8292,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+553,vivo,3,Masculino,22.0,0,0,7.225,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Sim,Sim
+554,vivo,3,Feminino,22.0,0,0,7.775,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Sim
+555,morto,1,Masculino,62.0,0,0,26.55,Southampton,Primeira Classe,Homem,Sim,,Southampton,Não,Sim
+556,vivo,1,Feminino,48.0,1,0,39.6,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe com botes salva vidas,Cherbourg,Sim,Não
+557,morto,1,Masculino,,0,0,227.525,Cherbourg,Primeira Classe,Homem,Sim,,Cherbourg,Não,Sim
+558,vivo,1,Feminino,39.0,1,1,79.65,Southampton,Primeira Classe,Mulher,Não,Convés Segunda Classe e áreas de serviço,Southampton,Sim,Não
+559,vivo,3,Feminino,36.0,1,0,17.4,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Não
+560,morto,3,Masculino,,0,0,7.75,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+561,morto,3,Masculino,40.0,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+562,morto,2,Masculino,28.0,0,0,13.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+563,morto,3,Masculino,,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+564,morto,3,Feminino,,0,0,8.05,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Sim
+565,morto,3,Masculino,24.0,2,0,24.15,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+566,morto,3,Masculino,19.0,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+567,morto,3,Feminino,29.0,0,4,21.075,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+568,morto,3,Masculino,,0,0,7.2292,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+569,vivo,3,Masculino,32.0,0,0,7.8542,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+570,vivo,2,Masculino,62.0,0,0,10.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Sim,Sim
+571,vivo,1,Feminino,53.0,2,0,51.4792,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Southampton,Sim,Não
+572,vivo,1,Masculino,36.0,0,0,26.3875,Southampton,Primeira Classe,Homem,Sim,Convés Segunda Classe e áreas de serviço,Southampton,Sim,Sim
+573,vivo,3,Feminino,,0,0,7.75,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Sim
+574,morto,3,Masculino,16.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+575,morto,3,Masculino,19.0,0,0,14.5,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+576,vivo,2,Feminino,34.0,0,0,13.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Sim
+577,vivo,1,Feminino,39.0,1,0,55.9,Southampton,Primeira Classe,Mulher,Não,Convés Segunda Classe e áreas de serviço,Southampton,Sim,Não
+578,morto,3,Feminino,,1,0,14.4583,Cherbourg,Terceira Classe,Mulher,Não,,Cherbourg,Não,Não
+579,vivo,3,Masculino,32.0,0,0,7.925,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+580,vivo,2,Feminino,25.0,1,1,30.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+581,vivo,1,Feminino,39.0,1,1,110.8833,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Cherbourg,Sim,Não
+582,morto,2,Masculino,54.0,0,0,26.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+583,morto,1,Masculino,36.0,0,0,40.125,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe com botes salva vidas,Cherbourg,Não,Sim
+584,morto,3,Masculino,,0,0,8.7125,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+585,vivo,1,Feminino,18.0,0,2,79.65,Southampton,Primeira Classe,Mulher,Não,Convés Segunda Classe e áreas de serviço,Southampton,Sim,Não
+586,morto,2,Masculino,47.0,0,0,15.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+587,vivo,1,Masculino,60.0,1,1,79.2,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de serviço,Cherbourg,Sim,Não
+588,morto,3,Masculino,22.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+589,morto,3,Masculino,,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+590,morto,3,Masculino,35.0,0,0,7.125,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+591,vivo,1,Feminino,52.0,1,0,78.2667,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e Restaurante de Primeira Classe,Cherbourg,Sim,Não
+592,morto,3,Masculino,47.0,0,0,7.25,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+593,morto,3,Feminino,,0,2,7.75,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Não,Não
+594,morto,2,Masculino,37.0,1,0,26.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Não
+595,morto,3,Masculino,36.0,1,1,24.15,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+596,vivo,2,Feminino,,0,0,33.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Sim
+597,morto,3,Masculino,49.0,0,0,0.0,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+598,morto,3,Masculino,,0,0,7.225,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+599,vivo,1,Masculino,49.0,1,0,56.9292,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe com botes salva vidas,Cherbourg,Sim,Não
+600,vivo,2,Feminino,24.0,2,1,27.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+601,morto,3,Masculino,,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+602,morto,1,Masculino,,0,0,42.4,Southampton,Primeira Classe,Homem,Sim,,Southampton,Não,Sim
+603,morto,3,Masculino,44.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+604,vivo,1,Masculino,35.0,0,0,26.55,Cherbourg,Primeira Classe,Homem,Sim,,Cherbourg,Sim,Sim
+605,morto,3,Masculino,36.0,1,0,15.55,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+606,morto,3,Masculino,30.0,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+607,vivo,1,Masculino,27.0,0,0,30.5,Southampton,Primeira Classe,Homem,Sim,,Southampton,Sim,Sim
+608,vivo,2,Feminino,22.0,1,2,41.5792,Cherbourg,Segunda Classe,Mulher,Não,,Cherbourg,Sim,Não
+609,vivo,1,Feminino,40.0,0,0,153.4625,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Southampton,Sim,Sim
+610,morto,3,Feminino,39.0,1,5,31.275,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+611,morto,3,Masculino,,0,0,7.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+612,vivo,3,Feminino,,1,0,15.5,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Não
+613,morto,3,Masculino,,0,0,7.75,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+614,morto,3,Masculino,35.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+615,vivo,2,Feminino,24.0,1,2,65.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+616,morto,3,Masculino,34.0,1,1,14.4,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+617,morto,3,Feminino,26.0,1,0,16.1,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+618,vivo,2,Feminino,4.0,2,1,39.0,Southampton,Segunda Classe,Criança,Não,Convés Segunda Classe e parte da Terceira Classe,Southampton,Sim,Não
+619,morto,2,Masculino,26.0,0,0,10.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+620,morto,3,Masculino,27.0,1,0,14.4542,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Não
+621,vivo,1,Masculino,42.0,1,0,52.5542,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e Restaurante de Primeira Classe,Southampton,Sim,Não
+622,vivo,3,Masculino,20.0,1,1,15.7417,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Sim,Não
+623,morto,3,Masculino,21.0,0,0,7.8542,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+624,morto,3,Masculino,21.0,0,0,16.1,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+625,morto,1,Masculino,61.0,0,0,32.3208,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e Restaurante de Primeira Classe,Southampton,Não,Sim
+626,morto,2,Masculino,57.0,0,0,12.35,Queenstown,Segunda Classe,Homem,Sim,,Queenstown,Não,Sim
+627,vivo,1,Feminino,21.0,0,0,77.9583,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e Restaurante de Primeira Classe,Southampton,Sim,Sim
+628,morto,3,Masculino,26.0,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+629,morto,3,Masculino,,0,0,7.7333,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+630,vivo,1,Masculino,80.0,0,0,30.0,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe com botes salva vidas,Southampton,Sim,Sim
+631,morto,3,Masculino,51.0,0,0,7.0542,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+632,vivo,1,Masculino,32.0,0,0,30.5,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de serviço,Cherbourg,Sim,Sim
+633,morto,1,Masculino,,0,0,0.0,Southampton,Primeira Classe,Homem,Sim,,Southampton,Não,Sim
+634,morto,3,Feminino,9.0,3,2,27.9,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+635,vivo,2,Feminino,28.0,0,0,13.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Sim
+636,morto,3,Masculino,32.0,0,0,7.925,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+637,morto,2,Masculino,31.0,1,1,26.25,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Não
+638,morto,3,Feminino,41.0,0,5,39.6875,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+639,morto,3,Masculino,,1,0,16.1,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+640,morto,3,Masculino,20.0,0,0,7.8542,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+641,vivo,1,Feminino,24.0,0,0,69.3,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Cherbourg,Sim,Sim
+642,morto,3,Feminino,2.0,3,2,27.9,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+643,vivo,3,Masculino,,0,0,56.4958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+644,vivo,3,Feminino,0.75,2,1,19.2583,Cherbourg,Terceira Classe,Criança,Não,,Cherbourg,Sim,Não
+645,vivo,1,Masculino,48.0,1,0,76.7292,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e Restaurante de Primeira Classe,Cherbourg,Sim,Não
+646,morto,3,Masculino,19.0,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+647,vivo,1,Masculino,56.0,0,0,35.5,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe com botes salva vidas,Cherbourg,Sim,Sim
+648,morto,3,Masculino,,0,0,7.55,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+649,vivo,3,Feminino,23.0,0,0,7.55,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Sim
+650,morto,3,Masculino,,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+651,vivo,2,Feminino,18.0,0,1,23.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+652,morto,3,Masculino,21.0,0,0,8.4333,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+653,vivo,3,Feminino,,0,0,7.8292,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Sim
+654,morto,3,Feminino,18.0,0,0,6.75,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Não,Sim
+655,morto,2,Masculino,24.0,2,0,73.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Não
+656,morto,3,Masculino,,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+657,morto,3,Feminino,32.0,1,1,15.5,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Não,Não
+658,morto,2,Masculino,23.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+659,morto,1,Masculino,58.0,0,2,113.275,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e Restaurante de Primeira Classe,Cherbourg,Não,Não
+660,vivo,1,Masculino,50.0,2,0,133.65,Southampton,Primeira Classe,Homem,Sim,,Southampton,Sim,Não
+661,morto,3,Masculino,40.0,0,0,7.225,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+662,morto,1,Masculino,47.0,0,0,25.5875,Southampton,Primeira Classe,Homem,Sim,Convés Segunda Classe e áreas de serviço,Southampton,Não,Sim
+663,morto,3,Masculino,36.0,0,0,7.4958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+664,vivo,3,Masculino,20.0,1,0,7.925,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Não
+665,morto,2,Masculino,32.0,2,0,73.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Não
+666,morto,2,Masculino,25.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+667,morto,3,Masculino,,0,0,7.775,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+668,morto,3,Masculino,43.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+669,vivo,1,Feminino,,1,0,52.0,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Southampton,Sim,Não
+670,vivo,2,Feminino,40.0,1,1,39.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+671,morto,1,Masculino,31.0,1,0,52.0,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de serviço,Southampton,Não,Não
+672,morto,2,Masculino,70.0,0,0,10.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+673,vivo,2,Masculino,31.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Sim,Sim
+674,morto,2,Masculino,,0,0,0.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+675,morto,3,Masculino,18.0,0,0,7.775,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+676,morto,3,Masculino,24.5,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+677,vivo,3,Feminino,18.0,0,0,9.8417,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Sim
+678,morto,3,Feminino,43.0,1,6,46.9,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+679,vivo,1,Masculino,36.0,0,1,512.3292,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de serviço,Cherbourg,Sim,Não
+680,morto,3,Feminino,,0,0,8.1375,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Não,Sim
+681,vivo,1,Masculino,27.0,0,0,76.7292,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e Restaurante de Primeira Classe,Cherbourg,Sim,Sim
+682,morto,3,Masculino,20.0,0,0,9.225,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+683,morto,3,Masculino,14.0,5,2,46.9,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+684,morto,2,Masculino,60.0,1,1,39.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Não
+685,morto,2,Masculino,25.0,1,2,41.5792,Cherbourg,Segunda Classe,Homem,Sim,,Cherbourg,Não,Não
+686,morto,3,Masculino,14.0,4,1,39.6875,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+687,morto,3,Masculino,19.0,0,0,10.1708,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+688,morto,3,Masculino,18.0,0,0,7.7958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+689,vivo,1,Feminino,15.0,0,1,211.3375,Southampton,Primeira Classe,Criança,Não,Convés Primeira Classe e áreas de serviço,Southampton,Sim,Não
+690,vivo,1,Masculino,31.0,1,0,57.0,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de serviço,Southampton,Sim,Não
+691,vivo,3,Feminino,4.0,0,1,13.4167,Cherbourg,Terceira Classe,Criança,Não,,Cherbourg,Sim,Não
+692,vivo,3,Masculino,,0,0,56.4958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+693,morto,3,Masculino,25.0,0,0,7.225,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+694,morto,1,Masculino,60.0,0,0,26.55,Southampton,Primeira Classe,Homem,Sim,,Southampton,Não,Sim
+695,morto,2,Masculino,52.0,0,0,13.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+696,morto,3,Masculino,44.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+697,vivo,3,Feminino,,0,0,7.7333,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Sim
+698,morto,1,Masculino,49.0,1,1,110.8833,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Cherbourg,Não,Não
+699,morto,3,Masculino,42.0,0,0,7.65,Southampton,Terceira Classe,Homem,Sim,Convés Segunda Classe e parte da Terceira Classe,Southampton,Não,Sim
+700,vivo,1,Feminino,18.0,1,0,227.525,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Cherbourg,Sim,Não
+701,vivo,1,Masculino,35.0,0,0,26.2875,Southampton,Primeira Classe,Homem,Sim,Convés Segunda Classe e áreas de serviço,Southampton,Sim,Sim
+702,morto,3,Feminino,18.0,0,1,14.4542,Cherbourg,Terceira Classe,Mulher,Não,,Cherbourg,Não,Não
+703,morto,3,Masculino,25.0,0,0,7.7417,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+704,morto,3,Masculino,26.0,1,0,7.8542,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+705,morto,2,Masculino,39.0,0,0,26.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+706,vivo,2,Feminino,45.0,0,0,13.5,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Sim
+707,vivo,1,Masculino,42.0,0,0,26.2875,Southampton,Primeira Classe,Homem,Sim,Convés Segunda Classe e áreas de serviço,Southampton,Sim,Sim
+708,vivo,1,Feminino,22.0,0,0,151.55,Southampton,Primeira Classe,Mulher,Não,,Southampton,Sim,Sim
+709,vivo,3,Masculino,,1,1,15.2458,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Sim,Não
+710,vivo,1,Feminino,24.0,0,0,49.5042,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Cherbourg,Sim,Sim
+711,morto,1,Masculino,,0,0,26.55,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Southampton,Não,Sim
+712,vivo,1,Masculino,48.0,1,0,52.0,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Southampton,Sim,Não
+713,morto,3,Masculino,29.0,0,0,9.4833,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+714,morto,2,Masculino,52.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+715,morto,3,Masculino,19.0,0,0,7.65,Southampton,Terceira Classe,Homem,Sim,Convés Segunda Classe e parte da Terceira Classe,Southampton,Não,Sim
+716,vivo,1,Feminino,38.0,0,0,227.525,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Cherbourg,Sim,Sim
+717,vivo,2,Feminino,27.0,0,0,10.5,Southampton,Segunda Classe,Mulher,Não,Convés Segunda Classe e áreas de serviço,Southampton,Sim,Sim
+718,morto,3,Masculino,,0,0,15.5,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+719,morto,3,Masculino,33.0,0,0,7.775,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+720,vivo,2,Feminino,6.0,0,1,33.0,Southampton,Segunda Classe,Criança,Não,,Southampton,Sim,Não
+721,morto,3,Masculino,17.0,1,0,7.0542,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+722,morto,2,Masculino,34.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+723,morto,2,Masculino,50.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+724,vivo,1,Masculino,27.0,1,0,53.1,Southampton,Primeira Classe,Homem,Sim,Convés Segunda Classe e áreas de serviço,Southampton,Sim,Não
+725,morto,3,Masculino,20.0,0,0,8.6625,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+726,vivo,2,Feminino,30.0,3,0,21.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+727,vivo,3,Feminino,,0,0,7.7375,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Sim,Sim
+728,morto,2,Masculino,25.0,1,0,26.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Não
+729,morto,3,Feminino,25.0,1,0,7.925,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+730,vivo,1,Feminino,29.0,0,0,211.3375,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Southampton,Sim,Sim
+731,morto,3,Masculino,11.0,0,0,18.7875,Cherbourg,Terceira Classe,Criança,Não,,Cherbourg,Não,Sim
+732,morto,2,Masculino,,0,0,0.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+733,morto,2,Masculino,23.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+734,morto,2,Masculino,23.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+735,morto,3,Masculino,28.5,0,0,16.1,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+736,morto,3,Feminino,48.0,1,3,34.375,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+737,vivo,1,Masculino,35.0,0,0,512.3292,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de serviço,Cherbourg,Sim,Sim
+738,morto,3,Masculino,,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+739,morto,3,Masculino,,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+740,vivo,1,Masculino,,0,0,30.0,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e Restaurante de Primeira Classe,Southampton,Sim,Sim
+741,morto,1,Masculino,36.0,1,0,78.85,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Southampton,Não,Não
+742,vivo,1,Feminino,21.0,2,2,262.375,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Cherbourg,Sim,Não
+743,morto,3,Masculino,24.0,1,0,16.1,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+744,vivo,3,Masculino,31.0,0,0,7.925,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+745,morto,1,Masculino,70.0,1,1,71.0,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de serviço,Southampton,Não,Não
+746,morto,3,Masculino,16.0,1,1,20.25,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+747,vivo,2,Feminino,30.0,0,0,13.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Sim
+748,morto,1,Masculino,19.0,1,0,53.1,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e Restaurante de Primeira Classe,Southampton,Não,Não
+749,morto,3,Masculino,31.0,0,0,7.75,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+750,vivo,2,Feminino,4.0,1,1,23.0,Southampton,Segunda Classe,Criança,Não,,Southampton,Sim,Não
+751,vivo,3,Masculino,6.0,0,1,12.475,Southampton,Terceira Classe,Criança,Não,Convés Segunda Classe e áreas de serviço,Southampton,Sim,Não
+752,morto,3,Masculino,33.0,0,0,9.5,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+753,morto,3,Masculino,23.0,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+754,vivo,2,Feminino,48.0,1,2,65.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+755,vivo,2,Masculino,0.67,1,1,14.5,Southampton,Segunda Classe,Criança,Não,,Southampton,Sim,Não
+756,morto,3,Masculino,28.0,0,0,7.7958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+757,morto,2,Masculino,18.0,0,0,11.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+758,morto,3,Masculino,34.0,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+759,vivo,1,Feminino,33.0,0,0,86.5,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Southampton,Sim,Sim
+760,morto,3,Masculino,,0,0,14.5,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+761,morto,3,Masculino,41.0,0,0,7.125,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+762,vivo,3,Masculino,20.0,0,0,7.2292,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Sim,Sim
+763,vivo,1,Feminino,36.0,1,2,120.0,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Southampton,Sim,Não
+764,morto,3,Masculino,16.0,0,0,7.775,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+765,vivo,1,Feminino,51.0,1,0,77.9583,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e Restaurante de Primeira Classe,Southampton,Sim,Não
+766,morto,1,Masculino,,0,0,39.6,Cherbourg,Primeira Classe,Homem,Sim,,Cherbourg,Não,Sim
+767,morto,3,Feminino,30.5,0,0,7.75,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Não,Sim
+768,morto,3,Masculino,,1,0,24.15,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Não
+769,morto,3,Masculino,32.0,0,0,8.3625,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+770,morto,3,Masculino,24.0,0,0,9.5,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+771,morto,3,Masculino,48.0,0,0,7.8542,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+772,morto,2,Feminino,57.0,0,0,10.5,Southampton,Segunda Classe,Mulher,Não,Convés Segunda Classe e áreas de serviço,Southampton,Não,Sim
+773,morto,3,Masculino,,0,0,7.225,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+774,vivo,2,Feminino,54.0,1,3,23.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+775,morto,3,Masculino,18.0,0,0,7.75,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+776,morto,3,Masculino,,0,0,7.75,Queenstown,Terceira Classe,Homem,Sim,Convés Segunda Classe e parte da Terceira Classe,Queenstown,Não,Sim
+777,vivo,3,Feminino,5.0,0,0,12.475,Southampton,Terceira Classe,Criança,Não,,Southampton,Sim,Sim
+778,morto,3,Masculino,,0,0,7.7375,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+779,vivo,1,Feminino,43.0,0,1,211.3375,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Southampton,Sim,Não
+780,vivo,3,Feminino,13.0,0,0,7.2292,Cherbourg,Terceira Classe,Criança,Não,,Cherbourg,Sim,Sim
+781,vivo,1,Feminino,17.0,1,0,57.0,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Southampton,Sim,Não
+782,morto,1,Masculino,29.0,0,0,30.0,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e Restaurante de Primeira Classe,Southampton,Não,Sim
+783,morto,3,Masculino,,1,2,23.45,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+784,morto,3,Masculino,25.0,0,0,7.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+785,morto,3,Masculino,25.0,0,0,7.25,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+786,vivo,3,Feminino,18.0,0,0,7.4958,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Sim
+787,morto,3,Masculino,8.0,4,1,29.125,Queenstown,Terceira Classe,Criança,Não,,Queenstown,Não,Não
+788,vivo,3,Masculino,1.0,1,2,20.575,Southampton,Terceira Classe,Criança,Não,,Southampton,Sim,Não
+789,morto,1,Masculino,46.0,0,0,79.2,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de serviço,Cherbourg,Não,Sim
+790,morto,3,Masculino,,0,0,7.75,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+791,morto,2,Masculino,16.0,0,0,26.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+792,morto,3,Feminino,,8,2,69.55,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+793,morto,1,Masculino,,0,0,30.6958,Cherbourg,Primeira Classe,Homem,Sim,,Cherbourg,Não,Sim
+794,morto,3,Masculino,25.0,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+795,morto,2,Masculino,39.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+796,vivo,1,Feminino,49.0,0,0,25.9292,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e Restaurante de Primeira Classe,Southampton,Sim,Sim
+797,vivo,3,Feminino,31.0,0,0,8.6833,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Sim
+798,morto,3,Masculino,30.0,0,0,7.2292,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+799,morto,3,Feminino,30.0,1,1,24.15,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+800,morto,2,Masculino,34.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+801,vivo,2,Feminino,31.0,1,1,26.25,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+802,vivo,1,Masculino,11.0,1,2,120.0,Southampton,Primeira Classe,Criança,Não,Convés Primeira Classe e áreas de serviço,Southampton,Sim,Não
+803,vivo,3,Masculino,0.42,0,1,8.5167,Cherbourg,Terceira Classe,Criança,Não,,Cherbourg,Sim,Não
+804,vivo,3,Masculino,27.0,0,0,6.975,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+805,morto,3,Masculino,31.0,0,0,7.775,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+806,morto,1,Masculino,39.0,0,0,0.0,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe com botes salva vidas,Southampton,Não,Sim
+807,morto,3,Feminino,18.0,0,0,7.775,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Sim
+808,morto,2,Masculino,39.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+809,vivo,1,Feminino,33.0,1,0,53.1,Southampton,Primeira Classe,Mulher,Não,Convés Segunda Classe e áreas de serviço,Southampton,Sim,Não
+810,morto,3,Masculino,26.0,0,0,7.8875,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+811,morto,3,Masculino,39.0,0,0,24.15,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+812,morto,2,Masculino,35.0,0,0,10.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+813,morto,3,Feminino,6.0,4,2,31.275,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+814,morto,3,Masculino,30.5,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+815,morto,1,Masculino,,0,0,0.0,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de serviço,Southampton,Não,Sim
+816,morto,3,Feminino,23.0,0,0,7.925,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Sim
+817,morto,2,Masculino,31.0,1,1,37.0042,Cherbourg,Segunda Classe,Homem,Sim,,Cherbourg,Não,Não
+818,morto,3,Masculino,43.0,0,0,6.45,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+819,morto,3,Masculino,10.0,3,2,27.9,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+820,vivo,1,Feminino,52.0,1,1,93.5,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Southampton,Sim,Não
+821,vivo,3,Masculino,27.0,0,0,8.6625,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+822,morto,1,Masculino,38.0,0,0,0.0,Southampton,Primeira Classe,Homem,Sim,,Southampton,Não,Sim
+823,vivo,3,Feminino,27.0,0,1,12.475,Southampton,Terceira Classe,Mulher,Não,Convés Segunda Classe e áreas de serviço,Southampton,Sim,Não
+824,morto,3,Masculino,2.0,4,1,39.6875,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+825,morto,3,Masculino,,0,0,6.95,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim
+826,morto,3,Masculino,,0,0,56.4958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+827,vivo,2,Masculino,1.0,0,2,37.0042,Cherbourg,Segunda Classe,Criança,Não,,Cherbourg,Sim,Não
+828,vivo,3,Masculino,,0,0,7.75,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Sim,Sim
+829,vivo,1,Feminino,62.0,0,0,80.0,,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,,Sim,Sim
+830,vivo,3,Feminino,15.0,1,0,14.4542,Cherbourg,Terceira Classe,Criança,Não,,Cherbourg,Sim,Não
+831,vivo,2,Masculino,0.83,1,1,18.75,Southampton,Segunda Classe,Criança,Não,,Southampton,Sim,Não
+832,morto,3,Masculino,,0,0,7.2292,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+833,morto,3,Masculino,23.0,0,0,7.8542,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+834,morto,3,Masculino,18.0,0,0,8.3,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+835,vivo,1,Feminino,39.0,1,1,83.1583,Cherbourg,Primeira Classe,Mulher,Não,Convés Segunda Classe e áreas de serviço,Cherbourg,Sim,Não
+836,morto,3,Masculino,21.0,0,0,8.6625,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+837,morto,3,Masculino,,0,0,8.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+838,vivo,3,Masculino,32.0,0,0,56.4958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Sim,Sim
+839,vivo,1,Masculino,,0,0,29.7,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Cherbourg,Sim,Sim
+840,morto,3,Masculino,20.0,0,0,7.925,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+841,morto,2,Masculino,16.0,0,0,10.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+842,vivo,1,Feminino,30.0,0,0,31.0,Cherbourg,Primeira Classe,Mulher,Não,,Cherbourg,Sim,Sim
+843,morto,3,Masculino,34.5,0,0,6.4375,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+844,morto,3,Masculino,17.0,0,0,8.6625,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+845,morto,3,Masculino,42.0,0,0,7.55,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+846,morto,3,Masculino,,8,2,69.55,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+847,morto,3,Masculino,35.0,0,0,7.8958,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+848,morto,2,Masculino,28.0,0,1,33.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Não
+849,vivo,1,Feminino,,1,0,89.1042,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Cherbourg,Sim,Não
+850,morto,3,Masculino,4.0,4,2,31.275,Southampton,Terceira Classe,Criança,Não,,Southampton,Não,Não
+851,morto,3,Masculino,74.0,0,0,7.775,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+852,morto,3,Feminino,9.0,1,1,15.2458,Cherbourg,Terceira Classe,Criança,Não,,Cherbourg,Não,Não
+853,vivo,1,Feminino,16.0,0,1,39.4,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e Restaurante de Primeira Classe,Southampton,Sim,Não
+854,morto,2,Feminino,44.0,1,0,26.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Não,Não
+855,vivo,3,Feminino,18.0,0,1,9.35,Southampton,Terceira Classe,Mulher,Não,,Southampton,Sim,Não
+856,vivo,1,Feminino,45.0,1,1,164.8667,Southampton,Primeira Classe,Mulher,Não,,Southampton,Sim,Não
+857,vivo,1,Masculino,51.0,0,0,26.55,Southampton,Primeira Classe,Homem,Sim,Convés Segunda Classe e áreas de serviço,Southampton,Sim,Sim
+858,vivo,3,Feminino,24.0,0,3,19.2583,Cherbourg,Terceira Classe,Mulher,Não,,Cherbourg,Sim,Não
+859,morto,3,Masculino,,0,0,7.2292,Cherbourg,Terceira Classe,Homem,Sim,,Cherbourg,Não,Sim
+860,morto,3,Masculino,41.0,2,0,14.1083,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Não
+861,morto,2,Masculino,21.0,1,0,11.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Não
+862,vivo,1,Feminino,48.0,0,0,25.9292,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e Restaurante de Primeira Classe,Southampton,Sim,Sim
+863,morto,3,Feminino,,8,2,69.55,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+864,morto,2,Masculino,24.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+865,vivo,2,Feminino,42.0,0,0,13.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Sim
+866,vivo,2,Feminino,27.0,1,0,13.8583,Cherbourg,Segunda Classe,Mulher,Não,,Cherbourg,Sim,Não
+867,morto,1,Masculino,31.0,0,0,50.4958,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe com botes salva vidas,Southampton,Não,Sim
+868,morto,3,Masculino,,0,0,9.5,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+869,vivo,3,Masculino,4.0,1,1,11.1333,Southampton,Terceira Classe,Criança,Não,,Southampton,Sim,Não
+870,morto,3,Masculino,26.0,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+871,vivo,1,Feminino,47.0,1,1,52.5542,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e Restaurante de Primeira Classe,Southampton,Sim,Não
+872,morto,1,Masculino,33.0,0,0,5.0,Southampton,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de serviço,Southampton,Não,Sim
+873,morto,3,Masculino,47.0,0,0,9.0,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+874,vivo,2,Feminino,28.0,1,0,24.0,Cherbourg,Segunda Classe,Mulher,Não,,Cherbourg,Sim,Não
+875,vivo,3,Feminino,15.0,0,0,7.225,Cherbourg,Terceira Classe,Criança,Não,,Cherbourg,Sim,Sim
+876,morto,3,Masculino,20.0,0,0,9.8458,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+877,morto,3,Masculino,19.0,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+878,morto,3,Masculino,,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+879,vivo,1,Feminino,56.0,0,1,83.1583,Cherbourg,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de refeição,Cherbourg,Sim,Não
+880,vivo,2,Feminino,25.0,0,1,26.0,Southampton,Segunda Classe,Mulher,Não,,Southampton,Sim,Não
+881,morto,3,Masculino,33.0,0,0,7.8958,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+882,morto,3,Feminino,22.0,0,0,10.5167,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Sim
+883,morto,2,Masculino,28.0,0,0,10.5,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+884,morto,3,Masculino,25.0,0,0,7.05,Southampton,Terceira Classe,Homem,Sim,,Southampton,Não,Sim
+885,morto,3,Feminino,39.0,0,5,29.125,Queenstown,Terceira Classe,Mulher,Não,,Queenstown,Não,Não
+886,morto,2,Masculino,27.0,0,0,13.0,Southampton,Segunda Classe,Homem,Sim,,Southampton,Não,Sim
+887,vivo,1,Feminino,19.0,0,0,30.0,Southampton,Primeira Classe,Mulher,Não,Convés Primeira Classe e áreas de serviço,Southampton,Sim,Sim
+888,morto,3,Feminino,,1,2,23.45,Southampton,Terceira Classe,Mulher,Não,,Southampton,Não,Não
+889,vivo,1,Masculino,26.0,0,0,30.0,Cherbourg,Primeira Classe,Homem,Sim,Convés Primeira Classe e áreas de refeição,Cherbourg,Sim,Sim
+890,morto,3,Masculino,32.0,0,0,7.75,Queenstown,Terceira Classe,Homem,Sim,,Queenstown,Não,Sim

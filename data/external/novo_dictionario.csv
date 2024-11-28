@@ -1,0 +1,16 @@
+Unnamed: 0,variavel,descrição,tipo,subtipo
+0,survived,Sobreviventes da tragédia,quantitativo,discreto
+1,pclass,Status socioeconomico,qualitativo,ordinal
+2,sex,Gênero das pessoas,qualitativo,Nominal
+3,age,Idade das pessoas,quantitativa,continua
+4,sibsp,Relação familiar de irmãos e cônjuge ,qualitativas ,nominal
+5,parch,Relação familiar de pais e filhos,qualitativas ,nominal
+6,fare,Tarifa do passageiro,quantitativo,continua
+7,embarked,Porto de embarcação,quantitativa,continua
+8,class,Número da classe social,quantitativa,discreto
+9,who,"Homem, Mulher ou Criança",qualitativa,nominal
+10,adult_male,Homem adulto,quantitativa,discreto
+11,deck,convés,qualitativa,Nominal
+12,embark_town,Cidade de embarcação,quantitativa,discreto
+13,alive,Pessoas vivas,quantitativa,discreto
+14,alone,Pessoas sozinhas,quantitativa,discreto
